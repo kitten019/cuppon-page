@@ -1,0 +1,52 @@
+.card-title{
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+}
+
+#precioNormal, #textFooter, .card-text,.fa-solid {
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    color: #707070;
+}
+ 
+.fa-solid{
+    size: 3vh;
+}
+
+#precios{
+    display: flex;
+    justify-content: end;
+} 
+
+#precioNormal{
+    size: 3vh;
+}
+
+#precioDescuento{
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    color: #28A745;
+    size: 4vh;
+} 
+
+#logoCuppon{
+    width: 12vh;
+    height: 3.5vh;
+}
+
+#suscripcion{
+    background-color: #28A745;
+}
+
+#logoCupponNegro{
+    width: 11.47vh;
+    height: 3.36vh;
+}
+
+#textFooter{
+    size:3.8vh;
+    justify-content: center;
+}
